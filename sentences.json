@@ -1,0 +1,668 @@
+[
+    {
+        "author": "Franklin D. Roosevelt",
+        "en": "The only thing we have to fear is fear itself.",
+        "es": "A lo único que debemos temer es al propio miedo.",
+        "fr": "La seule chose que nous devons craindre, c’est la peur elle-même.",
+        "zh": "我们唯一需要害怕的就是恐惧本身。",
+        "ja": "私たちが恐れるべき唯一のものは恐れそのものだ。",
+        "ru": "Единственное, чего нам стоит бояться, — это самого страха."
+    },
+    {
+        "author": "Neil Armstrong",
+        "en": "That's one small step for man, one giant leap for mankind.",
+        "es": "Es un pequeño paso para el hombre, un gran salto para la humanidad.",
+        "fr": "C’est un petit pas pour l’homme, un bond de géant pour l’humanité.",
+        "zh": "这是个人的一小步，却是人类的一大步。",
+        "ja": "これは人間にとって小さな一歩だが、人類にとっては大いなる飛躍だ。",
+        "ru": "Это маленький шаг для человека, но гигантский скачок для человечества."
+    },
+    {
+        "author": "René Descartes",
+        "en": "I think, therefore I am.",
+        "es": "Pienso, luego existo.",
+        "fr": "Je pense, donc je suis.",
+        "zh": "我思故我在。",
+        "ja": "我思う、ゆえに我あり。",
+        "ru": "Мыслю, следовательно, существую."
+    },
+    {
+        "author": "Steve Jobs",
+        "en": "Stay hungry, stay foolish.",
+        "es": "Mantente hambriento, mantente alocado.",
+        "fr": "Restez affamés, restez fous.",
+        "zh": "求知若饥，虚心若愚。",
+        "ja": "ハングリーであれ。愚かであれ。",
+        "ru": "Оставайся голодным, оставайся безрассудным."
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "en": "Be the change that you wish to see in the world.",
+        "es": "Sé el cambio que quieres ver en el mundo.",
+        "fr": "Soyez le changement que vous voulez voir dans le monde.",
+        "zh": "成为你希望在世界上看到的改变。",
+        "ja": "世界に望む変化に、あなた自身がなりなさい。",
+        "ru": "Стань тем изменением, которое хочешь видеть в мире."
+    },
+    {
+        "author": "Albert Einstein",
+        "en": "In the middle of difficulty lies opportunity.",
+        "es": "En medio de la dificultad se encuentra la oportunidad.",
+        "fr": "Au cœur de la difficulté se trouve l’opportunité.",
+        "zh": "困难之中蕴藏着机遇。",
+        "ja": "困難の中にこそ機会がある。",
+        "ru": "Посреди трудностей скрывается возможность."
+    },
+    {
+        "author": "Francis Bacon",
+        "en": "Knowledge is power.",
+        "es": "El conocimiento es poder.",
+        "fr": "Le savoir, c’est le pouvoir.",
+        "zh": "知识就是力量。",
+        "ja": "知識は力なり。",
+        "ru": "Знание — сила."
+    },
+    {
+        "author": "Socrates",
+        "en": "The unexamined life is not worth living.",
+        "es": "Una vida no examinada no merece ser vivida.",
+        "fr": "Une vie sans examen ne vaut pas la peine d’être vécue.",
+        "zh": "未经审视的人生不值得过。",
+        "ja": "省みられない人生は生きるに値しない。",
+        "ru": "Непроверенная жизнь не стоит того, чтобы жить."
+    },
+    {
+        "author": "William Shakespeare",
+        "en": "To be, or not to be, that is the question.",
+        "es": "Ser o no ser, esa es la cuestión.",
+        "fr": "Être ou ne pas être, telle est la question.",
+        "zh": "生存还是毁灭，这是个问题。",
+        "ja": "生きるべきか死ぬべきか、それが問題だ。",
+        "ru": "Быть или не быть — вот в чём вопрос."
+    },
+    {
+        "author": "Albert Einstein",
+        "en": "Imagination is more important than knowledge.",
+        "es": "La imaginación es más importante que el conocimiento.",
+        "fr": "L’imagination est plus importante que le savoir.",
+        "zh": "想象力比知识更重要。",
+        "ja": "想像力は知識よりも重要だ。",
+        "ru": "Воображение важнее знания."
+    },
+    {
+        "author": "Leonardo da Vinci",
+        "en": "Simplicity is the ultimate sophistication.",
+        "es": "La simplicidad es la máxima sofisticación.",
+        "fr": "La simplicité est la sophistication suprême.",
+        "zh": "简洁是极致的精致。",
+        "ja": "単純さは究極の洗練である。",
+        "ru": "Простота — высшая изысканность."
+    },
+    {
+        "author": "Oscar Wilde",
+        "en": "The truth is rarely pure and never simple.",
+        "es": "La verdad rara vez es pura y nunca simple.",
+        "fr": "La vérité est rarement pure et jamais simple.",
+        "zh": "真相很少纯粹，也从不简单。",
+        "ja": "真実は純粋なことは稀で、決して単純ではない。",
+        "ru": "Правда редко бывает чистой и никогда не бывает простой."
+    },
+    {
+        "author": "Virgil",
+        "en": "Fortune favors the bold.",
+        "es": "La fortuna favorece a los audaces.",
+        "fr": "La fortune sourit aux audacieux.",
+        "zh": "幸运眷顾勇者。",
+        "ja": "幸運は勇者に味方する。",
+        "ru": "Фортуна благоволит смелым."
+    },
+    {
+        "author": "Nelson Mandela",
+        "en": "It always seems impossible until it’s done.",
+        "es": "Siempre parece imposible hasta que se hace.",
+        "fr": "Cela semble toujours impossible jusqu’à ce que ce soit fait.",
+        "zh": "在完成之前，一切看似不可能。",
+        "ja": "成し遂げるまでは、いつも不可能に見える。",
+        "ru": "Всегда кажется невозможным, пока это не сделано."
+    },
+    {
+        "author": "Mother Teresa",
+        "en": "If you judge people, you have no time to love them.",
+        "es": "Si juzgas a la gente, no tienes tiempo para amarla.",
+        "fr": "Si vous jugez les gens, vous n’avez plus le temps de les aimer.",
+        "zh": "若总是评判他人，你就没有时间去爱他们。",
+        "ja": "人を裁くなら、愛する時間はなくなる。",
+        "ru": "Если вы судите людей, у вас не остаётся времени любить их."
+    },
+    {
+        "author": "Winston Churchill",
+        "en": "Success is not final, failure is not fatal.",
+        "es": "El éxito no es definitivo, el fracaso no es fatal.",
+        "fr": "Le succès n’est pas final, l’échec n’est pas fatal.",
+        "zh": "成功非终点，失败非末日。",
+        "ja": "成功は最終ではなく、失敗は致命的ではない。",
+        "ru": "Успех не окончателен, неудача не смертельна."
+    },
+    {
+        "author": "Laozi",
+        "en": "The journey of a thousand miles begins with one step.",
+        "es": "Un viaje de mil millas comienza con un solo paso.",
+        "fr": "Un voyage de mille lieues commence par un pas.",
+        "zh": "千里之行，始于足下。",
+        "ja": "千里の道も一歩から。",
+        "ru": "Путь в тысячу миль начинается с одного шага."
+    },
+    {
+        "author": "Aristotle",
+        "en": "Happiness depends upon ourselves.",
+        "es": "La felicidad depende de nosotros mismos.",
+        "fr": "Le bonheur dépend de nous-mêmes.",
+        "zh": "幸福取决于我们自己。",
+        "ja": "幸福は自分自身にかかっている。",
+        "ru": "Счастье зависит от нас самих."
+    },
+    {
+        "author": "Benjamin Franklin",
+        "en": "Well done is better than well said.",
+        "es": "Bien hecho es mejor que bien dicho.",
+        "fr": "Bien faire vaut mieux que bien dire.",
+        "zh": "做得好胜过说得好。",
+        "ja": "上手に行うことは、上手に語ることより良い。",
+        "ru": "Лучше хорошо сделать, чем хорошо сказать."
+    },
+    {
+        "author": "Benjamin Franklin",
+        "en": "Time is money.",
+        "es": "El tiempo es dinero.",
+        "fr": "Le temps, c’est de l’argent.",
+        "zh": "时间就是金钱。",
+        "ja": "時は金なり。",
+        "ru": "Время — деньги."
+    },
+    {
+        "author": "Marshall McLuhan",
+        "en": "The medium is the message.",
+        "es": "El medio es el mensaje.",
+        "fr": "Le médium est le message.",
+        "zh": "媒介即信息。",
+        "ja": "メディアはメッセージである。",
+        "ru": "Средство и есть сообщение."
+    },
+    {
+        "author": "Lord Acton",
+        "en": "Power tends to corrupt; absolute power corrupts absolutely.",
+        "es": "El poder tiende a corromper; el poder absoluto corrompe absolutamente.",
+        "fr": "Le pouvoir tend à corrompre, le pouvoir absolu corrompt absolument.",
+        "zh": "权力导致腐败，绝对的权力导致绝对的腐败。",
+        "ja": "権力は腐敗しがちであり、絶対権力は絶対に腐敗する。",
+        "ru": "Власть развращает, абсолютная власть развращает абсолютно."
+    },
+    {
+        "author": "Edward Bulwer-Lytton",
+        "en": "The pen is mightier than the sword.",
+        "es": "La pluma es más poderosa que la espada.",
+        "fr": "La plume est plus puissante que l’épée.",
+        "zh": "笔比剑更强大。",
+        "ja": "ペンは剣よりも強し。",
+        "ru": "Перо могущественнее меча."
+    },
+    {
+        "author": "J. R. R. Tolkien",
+        "en": "Not all those who wander are lost.",
+        "es": "No todos los que vagan están perdidos.",
+        "fr": "Tous ceux qui errent ne sont pas perdus.",
+        "zh": "并非所有徘徊者都迷失。",
+        "ja": "さまよう者すべてが迷っているわけではない。",
+        "ru": "Не все, кто скитается, заблудились."
+    },
+    {
+        "author": "Wayne Gretzky",
+        "en": "You miss 100% of the shots you don’t take.",
+        "es": "Fallas el 100% de los tiros que no haces.",
+        "fr": "Vous ratez 100 % des tirs que vous ne tentez pas.",
+        "zh": "不出手，你就错过百分之百的机会。",
+        "ja": "撃たないシュートは100％外れる。",
+        "ru": "Вы промахиваетесь по 100% бросков, которые не делаете."
+    },
+    {
+        "author": "John Lennon",
+        "en": "Life is what happens when you’re busy making other plans.",
+        "es": "La vida es lo que sucede mientras estás ocupado haciendo otros planes.",
+        "fr": "La vie, c’est ce qui arrive quand on fait d’autres projets.",
+        "zh": "当你忙着制定计划时，生活已在发生。",
+        "ja": "人生とは、別の計画に忙しいときに起こるものだ。",
+        "ru": "Жизнь — это то, что происходит, пока вы строите другие планы."
+    },
+    {
+        "author": "Heraclitus",
+        "en": "The only constant in life is change.",
+        "es": "La única constante en la vida es el cambio.",
+        "fr": "La seule constante de la vie, c’est le changement.",
+        "zh": "生命中唯一不变的是变化。",
+        "ja": "人生で唯一不変なのは変化だ。",
+        "ru": "Единственная постоянная в жизни — это перемены."
+    },
+    {
+        "author": "Martin Luther King Jr.",
+        "en": "Injustice anywhere is a threat to justice everywhere.",
+        "es": "La injusticia en cualquier lugar es una amenaza a la justicia en todas partes.",
+        "fr": "L’injustice où qu’elle soit est une menace pour la justice partout.",
+        "zh": "任何地方的不公都是对各处正义的威胁。",
+        "ja": "どこであれ不正は、至る所の正義への脅威だ。",
+        "ru": "Несправедливость где-либо — угроза справедливости везде."
+    },
+    {
+        "author": "Malcolm X",
+        "en": "The future belongs to those who prepare for it today.",
+        "es": "El futuro pertenece a quienes se preparan para él hoy.",
+        "fr": "L’avenir appartient à ceux qui s’y préparent aujourd’hui.",
+        "zh": "未来属于今天为之准备的人。",
+        "ja": "未来は今日それに備える者のものだ。",
+        "ru": "Будущее принадлежит тем, кто готовится к нему сегодня."
+    },
+    {
+        "author": "Isaac Newton",
+        "en": "If I have seen further it is by standing on giants.",
+        "es": "Si he visto más lejos es por estar sobre hombros de gigantes.",
+        "fr": "Si j’ai vu plus loin, c’est en montant sur des épaules de géants.",
+        "zh": "我之所以看得更远，是因为站在巨人的肩膀上。",
+        "ja": "私がより遠くを見られたのは巨人の肩に立ったからだ。",
+        "ru": "Если я видел дальше, то потому, что стоял на плечах гигантов."
+    },
+    {
+        "author": "Thomas Edison",
+        "en": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "es": "El genio es 1% inspiración y 99% transpiración.",
+        "fr": "Le génie, c’est 1 % d’inspiration et 99 % de transpiration.",
+        "zh": "天才是一分灵感，加上九十九分汗水。",
+        "ja": "天才とは1％のひらめきと99％の努力である。",
+        "ru": "Гений — это 1% вдохновения и 99% труда."
+    },
+    {
+        "author": "Voltaire",
+        "en": "Perfect is the enemy of good.",
+        "es": "Lo perfecto es enemigo de lo bueno.",
+        "fr": "Le parfait est l’ennemi du bien.",
+        "zh": "完美是良好的敌人。",
+        "ja": "完璧は善の敵である。",
+        "ru": "Лучшее — враг хорошего."
+    },
+    {
+        "author": "Franklin D. Roosevelt",
+        "en": "The only limit to our realization of tomorrow is our doubts today.",
+        "es": "El único límite para el mañana son nuestras dudas de hoy.",
+        "fr": "La seule limite à demain, ce sont nos doutes d’aujourd’hui.",
+        "zh": "实现明天的唯一限制，是我们今天的怀疑。",
+        "ja": "明日を実現するうえでの唯一の制限は、今日の私たちの疑いだ。",
+        "ru": "Единственный предел нашему завтрашнему дню — это наши сегодняшние сомнения."
+    },
+    {
+        "author": "Cicero",
+        "en": "A room without books is like a body without a soul.",
+        "es": "Una habitación sin libros es como un cuerpo sin alma.",
+        "fr": "Une pièce sans livres est comme un corps sans âme.",
+        "zh": "没有书的房间如同没有灵魂的身体。",
+        "ja": "本のない部屋は、魂のない身体のようだ。",
+        "ru": "Комната без книг — как тело без души."
+    },
+    {
+        "author": "Confucius",
+        "en": "It does not matter how slowly you go as long as you do not stop.",
+        "es": "No importa lo lento que vayas, mientras no te detengas.",
+        "fr": "Peu importe la lenteur, pourvu que vous ne vous arrêtiez pas.",
+        "zh": "不怕慢，就怕站。",
+        "ja": "どれだけ遅くても、止まらなければ問題ない。",
+        "ru": "Не важно, как медленно ты идёшь, пока не останавливаешься."
+    },
+    {
+        "author": "Winston Churchill",
+        "en": "If you’re going through hell, keep going.",
+        "es": "Si estás pasando por el infierno, sigue adelante.",
+        "fr": "Si vous traversez l’enfer, continuez d’avancer.",
+        "zh": "若你正经历地狱，也要继续前行。",
+        "ja": "地獄の最中でも、進み続けろ。",
+        "ru": "Если проходишь через ад — продолжай идти."
+    },
+    {
+        "author": "Robert Frost",
+        "en": "The best way out is always through.",
+        "es": "La mejor salida siempre es a través.",
+        "fr": "La meilleure issue est toujours de traverser.",
+        "zh": "最好的出路，永远是穿过去。",
+        "ja": "抜け出す最善の道は、いつも突き進むことだ。",
+        "ru": "Лучший выход — всегда сквозь."
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "en": "Where there is love there is life.",
+        "es": "Donde hay amor, hay vida.",
+        "fr": "Là où il y a de l’amour, il y a de la vie.",
+        "zh": "有爱的地方就有生命。",
+        "ja": "愛があるところに命がある。",
+        "ru": "Где есть любовь, там есть жизнь."
+    },
+    {
+        "author": "Buddha",
+        "en": "The mind is everything. What you think you become.",
+        "es": "La mente lo es todo. En lo que piensas, te conviertes.",
+        "fr": "L’esprit est tout. Ce que vous pensez, vous le devenez.",
+        "zh": "心念即一切；你所想的，终将成为你。",
+        "ja": "心がすべてである。思うことが自分になる。",
+        "ru": "Сознание — это всё. Чем мыслишь, тем и становишься."
+    },
+    {
+        "author": "Aristotle",
+        "en": "Quality is not an act, it is a habit.",
+        "es": "La calidad no es un acto, es un hábito.",
+        "fr": "La qualité n’est pas un acte, c’est une habitude.",
+        "zh": "质量不是行为，而是习惯。",
+        "ja": "品質は行為ではなく、習慣である。",
+        "ru": "Качество — не действие, а привычка."
+    },
+    {
+        "author": "Nelson Mandela",
+        "en": "Education is the most powerful weapon to change the world.",
+        "es": "La educación es el arma más poderosa para cambiar el mundo.",
+        "fr": "L’éducation est l’arme la plus puissante pour changer le monde.",
+        "zh": "教育是改变世界最有力的武器。",
+        "ja": "教育は世界を変える最も強力な武器だ。",
+        "ru": "Образование — самое мощное оружие, чтобы изменить мир."
+    },
+    {
+        "author": "Sun Tzu",
+        "en": "In the midst of chaos, there is also opportunity.",
+        "es": "En medio del caos, también hay oportunidad.",
+        "fr": "Au cœur du chaos, il y a aussi une opportunité.",
+        "zh": "混乱之中亦有机遇。",
+        "ja": "混乱のただ中にも機会はある。",
+        "ru": "В разгар хаоса есть и возможность."
+    },
+    {
+        "author": "Confucius",
+        "en": "Real knowledge is to know the extent of one’s ignorance.",
+        "es": "El verdadero conocimiento es conocer la extensión de la propia ignorancia.",
+        "fr": "La vraie connaissance est de connaître l’étendue de son ignorance.",
+        "zh": "真正的智慧是知道自己的无知。",
+        "ja": "真の知は、自らの無知の広さを知ることだ。",
+        "ru": "Истинное знание — знать меру своего невежества."
+    },
+    {
+        "author": "Plato",
+        "en": "The beginning is the most important part of the work.",
+        "es": "El comienzo es la parte más importante del trabajo.",
+        "fr": "Le début est la partie la plus importante de l’œuvre.",
+        "zh": "开端是工作中最重要的部分。",
+        "ja": "始まりは仕事の最も重要な部分だ。",
+        "ru": "Начало — самая важная часть работы."
+    },
+    {
+        "author": "Socrates",
+        "en": "The only true wisdom is in knowing you know nothing.",
+        "es": "La única sabiduría verdadera es saber que no sabes nada.",
+        "fr": "La seule vraie sagesse est de savoir que l’on ne sait rien.",
+        "zh": "唯一真正的智慧是知道自己一无所知。",
+        "ja": "唯一の真の知恵は、自分が何も知らないと知ることだ。",
+        "ru": "Единственная истинная мудрость — знать, что ты ничего не знаешь."
+    },
+    {
+        "author": "Marcus Aurelius",
+        "en": "You have power over your mind, not outside events.",
+        "es": "Tienes poder sobre tu mente, no sobre los hechos externos.",
+        "fr": "Tu as pouvoir sur ton esprit, pas sur les événements extérieurs.",
+        "zh": "你能掌控的是心智，而非外在事件。",
+        "ja": "君が支配できるのは心であり、外部の出来事ではない。",
+        "ru": "Ты властен над своим умом, а не над внешними событиями."
+    },
+    {
+        "author": "Hannah Arendt",
+        "en": "The most radical revolutionary will become a conservative the day after the revolution.",
+        "es": "El revolucionario más radical se vuelve conservador al día siguiente de la revolución.",
+        "fr": "Le révolutionnaire le plus radical devient conservateur le lendemain de la révolution.",
+        "zh": "最激进的革命者在革命翌日也会成保守派。",
+        "ja": "最も急進的な革命家も、革命の翌日には保守的になる。",
+        "ru": "Самый радикальный революционер на следующий день становится консерватором."
+    },
+    {
+        "author": "George Orwell",
+        "en": "In a time of deceit, telling the truth is a revolutionary act.",
+        "es": "En tiempos de engaño, decir la verdad es un acto revolucionario.",
+        "fr": "En temps de tromperie, dire la vérité est un acte révolutionnaire.",
+        "zh": "在欺骗盛行的时代，说真话就是革命行为。",
+        "ja": "欺瞞の時代において、真実を語ることは革命的行為だ。",
+        "ru": "Во времена обмана говорить правду — поступок революционный."
+    },
+    {
+        "author": "Marie Curie",
+        "en": "Nothing in life is to be feared, it is only to be understood.",
+        "es": "Nada en la vida debe ser temido, solo comprendido.",
+        "fr": "Rien dans la vie ne doit être craint, mais compris.",
+        "zh": "生活中没有什么值得恐惧，只需去理解。",
+        "ja": "人生で恐れるべきものはなく、ただ理解すべきである。",
+        "ru": "В жизни нечего бояться, её нужно понимать."
+    },
+    {
+        "author": "Leonardo da Vinci",
+        "en": "Learning never exhausts the mind.",
+        "es": "El aprendizaje nunca agota la mente.",
+        "fr": "L’apprentissage n’épuise jamais l’esprit.",
+        "zh": "学习从不会使心智疲惫。",
+        "ja": "学ぶことは心を疲れさせない。",
+        "ru": "Учёба никогда не утомляет ум."
+    },
+    {
+        "author": "Maya Angelou",
+        "en": "Nothing can dim the light which shines from within.",
+        "es": "Nada puede apagar la luz que brilla desde dentro.",
+        "fr": "Rien ne peut éteindre la lumière qui brille de l’intérieur.",
+        "zh": "没有什么能熄灭内心绽放的光芒。",
+        "ja": "内から輝く光を曇らせるものは何もない。",
+        "ru": "Ничто не может погасить свет, исходящий изнутри."
+    },
+    {
+        "author": "Eleanor Roosevelt",
+        "en": "No one can make you feel inferior without your consent.",
+        "es": "Nadie puede hacerte sentir inferior sin tu consentimiento.",
+        "fr": "Personne ne peut te faire sentir inférieur sans ton consentement.",
+        "zh": "未经你的同意，没有人能让你自惭形秽。",
+        "ja": "あなたの同意なしに、誰もあなたを劣った気分にさせられない。",
+        "ru": "Никто не заставит тебя чувствовать себя ниже, если ты сам не позволишь."
+    },
+    {
+        "author": "Alan Turing",
+        "en": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+        "es": "Solo vemos un poco más allá, pero hay mucho por hacer.",
+        "fr": "Nous ne voyons qu’un peu devant nous, mais il y a tant à faire.",
+        "zh": "我们只能看到不远处，但那儿有很多事要做。",
+        "ja": "先は少ししか見えないが、やるべきことは多い。",
+        "ru": "Мы видим лишь на короткую дистанцию, но дел впереди предостаточно."
+    },
+    {
+        "author": "Grace Hopper",
+        "en": "The most dangerous phrase in the language is: we’ve always done it this way.",
+        "es": "La frase más peligrosa es: siempre lo hemos hecho así.",
+        "fr": "La phrase la plus dangereuse est : on a toujours fait comme ça.",
+        "zh": "最危险的一句话是：我们一直都是这么做的。",
+        "ja": "最も危険な言葉は「いつもこうしてきた」だ。",
+        "ru": "Самая опасная фраза: «Мы всегда делали это так»."
+    },
+    {
+        "author": "Peter Drucker",
+        "en": "What gets measured gets managed.",
+        "es": "Lo que se mide se gestiona.",
+        "fr": "Ce qui est mesuré est géré.",
+        "zh": "可度量者方可管理。",
+        "ja": "測定されるものは管理される。",
+        "ru": "То, что измеряется, управляется."
+    },
+    {
+        "author": "Tim Berners-Lee",
+        "en": "Data is a precious thing and will last longer than systems.",
+        "es": "Los datos son valiosos y perduran más que los sistemas.",
+        "fr": "Les données sont précieuses et durent plus longtemps que les systèmes.",
+        "zh": "数据是珍贵的，比系统更长久。",
+        "ja": "データは貴重で、システムより長く残る。",
+        "ru": "Данные — вещь ценная, они живут дольше систем."
+    },
+    {
+        "author": "Katherine Johnson",
+        "en": "Like what you do, and then you will do your best.",
+        "es": "Ama lo que haces y así darás lo mejor de ti.",
+        "fr": "Aime ce que tu fais, et tu donneras le meilleur.",
+        "zh": "热爱你所做的，你就会做到最好。",
+        "ja": "自分のすることを好きになれば、最善を尽くせる。",
+        "ru": "Полюби то, что делаешь, и ты сделаешь это наилучшим образом."
+    },
+    {
+        "author": "Yuri Gagarin",
+        "en": "I see Earth! It is so beautiful.",
+        "es": "¡Veo la Tierra! Es tan hermosa.",
+        "fr": "Je vois la Terre ! Elle est si belle.",
+        "zh": "我看见地球了！太美了。",
+        "ja": "地球が見える！とても美しい。",
+        "ru": "Я вижу Землю! Как она прекрасна."
+    },
+    {
+        "author": "Jane Goodall",
+        "en": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+        "es": "Lo que haces marca la diferencia, decide qué diferencia quieres marcar.",
+        "fr": "Ce que tu fais change les choses, choisis quel changement tu veux faire.",
+        "zh": "你的行动会带来改变，决定你想带来怎样的改变。",
+        "ja": "あなたの行いは違いを生む。どんな違いを生みたいか決めなさい。",
+        "ru": "Твои действия имеют значение. Реши, какое именно."
+    },
+    {
+        "author": "James Baldwin",
+        "en": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+        "es": "No todo lo que se enfrenta puede cambiarse, pero nada cambia hasta que se enfrenta.",
+        "fr": "Tout ne peut pas changer en l’affrontant, mais rien ne change sans l’affronter.",
+        "zh": "不是所有面对的都能改变，但不面对就改变不了任何事。",
+        "ja": "向き合えば全てが変わるわけではないが、向き合わねば何も変わらない。",
+        "ru": "Не всё можно изменить, столкнувшись с этим, но ничего не изменится, пока не столкнёшься."
+    },
+    {
+        "author": "Carl Sagan",
+        "en": "Somewhere, something incredible is waiting to be known.",
+        "es": "En algún lugar, algo increíble espera ser conocido.",
+        "fr": "Quelque part, quelque chose d’incroyable attend d’être découvert.",
+        "zh": "在某处，令人难以置信的事物正等待被认识。",
+        "ja": "どこかで、信じがたい何かが知られるのを待っている。",
+        "ru": "Где-то невероятное ждёт, чтобы его открыли."
+    },
+    {
+        "author": "Galileo Galilei",
+        "en": "All truths are easy to understand once they are discovered.",
+        "es": "Todas las verdades son fáciles de entender una vez descubiertas.",
+        "fr": "Toutes les vérités sont faciles à comprendre une fois découvertes.",
+        "zh": "真理一旦被发现，理解起来就很容易。",
+        "ja": "真理は一度発見されれば理解は容易だ。",
+        "ru": "Все истины легко понять, как только они открыты."
+    },
+    {
+        "author": "Ada Lovelace",
+        "en": "That brain of mine is something more than merely mortal.",
+        "es": "Mi cerebro es algo más que meramente mortal.",
+        "fr": "Mon cerveau est quelque chose de plus que mortel.",
+        "zh": "我的大脑不止于凡人之物。",
+        "ja": "私の脳はただの凡庸なものではない。",
+        "ru": "Мой ум — нечто большее, чем просто смертный."
+    },
+    {
+        "author": "Laozi",
+        "en": "Silence is a source of great strength.",
+        "es": "El silencio es una fuente de gran fuerza.",
+        "fr": "Le silence est une source de grande force.",
+        "zh": "沉默是巨大的力量之源。",
+        "ja": "沈黙は大いなる力の源だ。",
+        "ru": "Молчание — источник великой силы."
+    },
+    {
+        "author": "Rumi",
+        "en": "What you seek is seeking you.",
+        "es": "Lo que buscas te está buscando.",
+        "fr": "Ce que tu cherches te cherche aussi.",
+        "zh": "你所寻找的，也在寻找你。",
+        "ja": "あなたが探しているものは、あなたを探している。",
+        "ru": "То, что ты ищешь, ищет тебя."
+    },
+    {
+        "author": "Søren Kierkegaard",
+        "en": "Life can only be understood backwards; but it must be lived forwards.",
+        "es": "La vida solo se entiende hacia atrás, pero se vive hacia adelante.",
+        "fr": "La vie ne se comprend qu’en regardant en arrière, mais se vit en avant.",
+        "zh": "人生只能回望方能理解，却必须向前而活。",
+        "ja": "人生は後ろを見てしか理解できないが、前に向かって生きねばならない。",
+        "ru": "Жизнь понимается лишь оглядываясь назад, но жить надо вперёд."
+    },
+    {
+        "author": "Virginia Woolf",
+        "en": "Arrange whatever pieces come your way.",
+        "es": "Ordena las piezas que te vayan llegando.",
+        "fr": "Arrange les pièces qui se présentent à toi.",
+        "zh": "把来到你面前的碎片妥善安放。",
+        "ja": "目の前に来る断片を整えなさい。",
+        "ru": "Укладывай те фрагменты, что достаются тебе."
+    },
+    {
+        "author": "Emily Dickinson",
+        "en": "Forever is composed of nows.",
+        "es": "La eternidad se compone de momentos presentes.",
+        "fr": "L’éternité est faite de présents.",
+        "zh": "永恒由一个个当下组成。",
+        "ja": "永遠は“今”の積み重ねである。",
+        "ru": "Вечность состоит из «сейчас»."
+    },
+    {
+        "author": "Friedrich Nietzsche",
+        "en": "He who has a why to live can bear almost any how.",
+        "es": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+        "fr": "Qui a un pourquoi peut endurer presque n’importe quel comment.",
+        "zh": "知道为何而活的人，几乎能承受任何生活方式。",
+        "ja": "生きる理由がある者は、ほとんどいかなる仕方にも耐えられる。",
+        "ru": "У кого есть «зачем» жить, выдержит почти любое «как»."
+    },
+    {
+        "author": "Seneca",
+        "en": "Luck is what happens when preparation meets opportunity.",
+        "es": "La suerte es lo que ocurre cuando la preparación se encuentra con la oportunidad.",
+        "fr": "La chance, c’est quand la préparation rencontre l’opportunité.",
+        "zh": "当准备遇上机遇，便是运气。",
+        "ja": "準備が機会に出会うとき、それが幸運となる。",
+        "ru": "Удача — это когда подготовка встречается с возможностью."
+    },
+    {
+        "author": "Andy Warhol",
+        "en": "In the future, everyone will be world-famous for fifteen minutes.",
+        "es": "En el futuro, todos serán famosos mundialmente durante quince minutos.",
+        "fr": "À l’avenir, chacun sera mondialement célèbre pendant quinze minutes.",
+        "zh": "将来每个人都会成名十五分钟。",
+        "ja": "将来、誰もが15分だけ世界的に有名になる。",
+        "ru": "В будущем каждый будет знаменит на весь мир в течение пятнадцати минут."
+    },
+    {
+        "author": "Pablo Picasso",
+        "en": "Everything you can imagine is real.",
+        "es": "Todo lo que puedas imaginar es real.",
+        "fr": "Tout ce que tu peux imaginer est réel.",
+        "zh": "你能想象的一切都是真实的。",
+        "ja": "想像できるものはすべて現実だ。",
+        "ru": "Всё, что ты можешь вообразить, реально."
+    },
+    {
+        "author": "Vincent van Gogh",
+        "en": "What would life be if we had no courage to attempt anything?",
+        "es": "¿Qué sería la vida sin el valor de intentar algo?",
+        "fr": "Que serait la vie sans le courage de tenter quoi que ce soit ?",
+        "zh": "若我们没有勇气尝试，生命会变成什么？",
+        "ja": "何かに挑む勇気がなければ、人生はどうなるだろう。",
+        "ru": "Что была бы жизнь без смелости хоть что-то попытаться?"
+    },
+    {
+        "author": "Jane Austen",
+        "en": "There is no charm equal to tenderness of heart.",
+        "es": "No hay encanto igual a la ternura de corazón.",
+        "fr": "Nul charme n’égale la tendresse du cœur.",
+        "zh": "没有什么魅力能比得上内心的温柔。",
+        "ja": "心の優しさに勝る魅力はない。",
+        "ru": "Нет очарования, равного мягкости сердца."
+    }
+]

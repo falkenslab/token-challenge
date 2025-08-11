@@ -1,0 +1,38 @@
+[project]
+name = "token-challenge"
+version = "0.1.0"
+description = "Check which language needs less tokens to represent a given text"
+authors = [
+    {name = "Francisco Vargas Ruiz", email = "4354486+fvarrui@users.noreply.github.com"},
+]
+readme = "README.md"
+license = {text = "MIT"}
+classifiers = [
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",    
+]
+keywords = ["db", "tools", "schema", "mapping", "integrity", "check", "migration", "sql", "ddr" ]
+dependencies = [
+    "tiktoken",         # Tokenizer for OpenAI API
+]
+requires-python = ">=3.12"
+
+[build-system]
+requires      = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.optional-dependencies]
+dev = ["black", "bumpver", "isort", "pip-tools", "pytest"]
+
+[project.urls]
+Home = "https://github.com/falkenslab/token-challenge"
+Documentation = "https://github.com/falkenslab/token-challenge/blob/main/README.md"
+Source = "https://github.com/falkenslab/token-challenge"
+Issues = "https://github.com/falkenslab/token-challenge/issues"
+
+[project.scripts]
+challenge = "tokenizer.__main__:main"
+
+[tool.setuptools]
+include-package-data = true
