@@ -35,21 +35,6 @@ Instalamos las dependencias necesarias:
 pip install -e .
 ```
 
-Crearemos un entorno virtual para instalar las dependencias:
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # En Windows
-# o
-source venv/bin/activate  # En Linux o macOS
-```
-
-Instalamos las dependencias necesarias:
-
-```bash
-pip install -e .
-```
-
 ## Uso
 
 Para ejecutar el script de prueba, simplemente ejecutamos:
