@@ -1,7 +1,7 @@
 [project]
 name = "token-challenge"
 version = "0.1.0"
-description = "Check which language needs less tokens to represent a given text"
+description = "Pequeño experimento para comprobar el uso de tokens de los modelos de OpenAI en diferentes idiomas."
 authors = [
     {name = "Francisco Vargas Ruiz", email = "4354486+fvarrui@users.noreply.github.com"},
 ]
