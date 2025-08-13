@@ -6,13 +6,20 @@ authors = [
     {name = "Francisco Vargas Ruiz", email = "4354486+fvarrui@users.noreply.github.com"},
 ]
 readme = "README.md"
-license = {text = "MIT"}
+license = {file = "LICENSE"}
 classifiers = [
     "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",    
 ]
-keywords = ["db", "tools", "schema", "mapping", "integrity", "check", "migration", "sql", "ddr" ]
+keywords = [
+    "token",
+    "language",
+    "representation",
+    "text",
+    "OpenAI",
+    "API",
+]
 dependencies = [
     "tiktoken",         # Tokenizer for OpenAI API
 ]
